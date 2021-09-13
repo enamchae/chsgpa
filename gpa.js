@@ -5,6 +5,7 @@ export const CourseLevel = Object.freeze({
 	A: 0,
 	X: 0.5,
 	H: 1,
+	HH: 1.3,
 	AP: 1.3,
 });
 
